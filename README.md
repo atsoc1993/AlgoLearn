@@ -1,5 +1,5 @@
-#Front-End Developer
+### Front-End Developer
 Matthew Bernard
 
-#Back-End Developer/Content
+### Back-End Developer/Content
 Leo Costa
