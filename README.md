@@ -107,6 +107,6 @@ Contributions are welcome! Follow these steps:
 This project is licensed under the **MIT License**.
 
 ## 👩‍💻 Authors
-
-- **Matthew Bernard** - Creator and Maintainer
+- **Leo Costa** - Smart Contract and Backend Developer
+- **Matthew Bernard** - Frontend Developer
 
